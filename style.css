@@ -7,6 +7,16 @@ p{
   color:navy;
 }
 
+
 table{
   color: orange;
+}
+
+.header{
+  background-color: yellow;
+}
+
+footer{
+  background-color:pink;
+
 }
